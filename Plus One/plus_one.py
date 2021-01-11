@@ -9,5 +9,3 @@ def plus_one(digits):
     else: # length > 0
         digits[length] += 1
     return digits
-
-print(plus_one([9, 9, 9]))
