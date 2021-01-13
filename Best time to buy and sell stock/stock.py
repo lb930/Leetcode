@@ -1,5 +1,3 @@
-from itertools import combinations
-
 def stock(prices):
     
     if not prices:
@@ -15,6 +13,10 @@ def stock(prices):
             buy_stock = prices[i]
 
         # Calculate the max of price diff and profit made until now
-        profit = max(prices[i] - buy_stock, profit)
+        print(f'Old profit: {profit}')
+        print(f'list element: {prices[i]}')
+        print(f'buy stock: {buy_stock}')
+        profit = max(prices[i] - buy_stock, profit) # return largest argument (either prices[i] - buy_stock or old profit)
+        print(f'new profit: {profit}')
 
     return profit
