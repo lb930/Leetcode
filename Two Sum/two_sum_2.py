@@ -9,5 +9,3 @@ def two_sum_2(lst, target):
             l += 1
         else:
             r -= 1
-
-print(two_sum_2([-1, 0], -1))

@@ -1,13 +1,10 @@
-# Two Sum
+# Two Sum II - Input array is sorted
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2.
 
-You can return the answer in any order.
+Note:
 
-###### Example 1:
-
-**Input:** nums = [2,7,11,15], target = 9<br>
-**Output:** [0,1]<br>
-**Output:** Because nums[0] + nums[1] == 9, we return [0, 1].<br>
+Your returned answers (both index1 and index2) are not zero-based.
+You may assume that each input would have exactly one solution and you may not use the same element twice.
