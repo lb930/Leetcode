@@ -1,7 +1,7 @@
 def rotate(lst, k):
-
-    a = [0] * len(lst)
-    for i in range(len(lst)):
-        a[(i + k) % len(lst)] = lst[i]
+    n = len(lst)
+    a = [0] * n
+    for i in range(n):
+        a[(i + k) % n] = lst[i]
         
     lst[:] = a # [:] all elements

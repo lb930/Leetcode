@@ -1,4 +1,4 @@
-def plus_one(digits):
+def plus_one(digits: list):
     length = len(digits) - 1
 
     while digits[length] == 9: # (last) index equals 9
