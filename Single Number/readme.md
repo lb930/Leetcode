@@ -9,12 +9,12 @@ Follow up: Could you implement a solution with a linear runtime complexity and w
 Input: nums = [2,2,1]<br>
 Output: 1<br>
 
-Example 2:
+**Example 2:**
 
 Input: nums = [4,1,2,1,2]<br>
 Output: 4<br>
 
-Example 3:
+**Example 3:**
 
 Input: nums = [1]<br>
 Output: 1
