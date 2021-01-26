@@ -32,3 +32,5 @@ def fizzbuzz_2(num):
         fizz.append(buzz)
         buzz = ''
     return fizz
+
+    
