@@ -28,7 +28,7 @@ Last updated:  2021-01-30
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Code](https://github.com/lb930/Leetcode/tree/main/0242%20-%20Valid%20Anagram)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Code](https://github.com/lb930/Leetcode/tree/main/0283%20-%20Move%20Zeroes)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Code](https://github.com/lb930/Leetcode/tree/main/0326%20-%20Power%20of%20Three)|Easy|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0344%20-%20Reverse%20String)Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0344%20-%20Reverse%20String)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Code](https://github.com/lb930/Leetcode/tree/main/0349%20-%20Intersection%20of%20Two%20Arrays)|Easy|
 |350|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0350%20-%20Intersection%20of%20Tow%20Arrays%20II)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0387%20-%20First%20Unique%20Character%20in%20a%20String)|Easy|
