@@ -31,7 +31,7 @@ Last updated:  2021-01-30
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Code](https://github.com/lb930/Leetcode/tree/main/0326%20-%20Power%20of%20Three)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0344%20-%20Reverse%20String)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Code](https://github.com/lb930/Leetcode/tree/main/0349%20-%20Intersection%20of%20Two%20Arrays)|Easy|
-|350|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0350%20-%20Intersection%20of%20Tow%20Arrays%20II)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0350%20-%20Intersection%20of%20Tow%20Arrays%20II)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0387%20-%20First%20Unique%20Character%20in%20a%20String)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Code](https://github.com/lb930/Leetcode/tree/main/0412%20-%20Fizz%20Buzz)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Code](https://github.com/lb930/Leetcode/tree/main/0771%20-%20Jewels%20and%20Stones)|Easy|
