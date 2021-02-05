@@ -9,6 +9,7 @@ Last updated:  2021-01-30
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Code](https://github.com/lb930/Leetcode/tree/main/0001%20-%20Two%20Sum)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Code](https://github.com/lb930/Leetcode/tree/main/0007%20-%20Reverse%20Integer)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Code](https://github.com/lb930/Leetcode/tree/main/0008%20-%20String%20to%20integer%20(atoi))|Medium|
+|9|[Palindrom Number](https://leetcode.com/problems/palindrome-number/)|[Code](https://github.com/lb930/Leetcode/tree/main/0009%20-%20Palindrome%20Number)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Code](https://github.com/lb930/Leetcode/tree/main/0013%20-%20Roman%20to%20Integer)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Code](https://github.com/lb930/Leetcode/tree/main/0014%20-%20Longest%20common%20prefix)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Code](https://github.com/lb930/Leetcode/tree/main/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
@@ -30,12 +31,12 @@ Last updated:  2021-01-30
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Code](https://github.com/lb930/Leetcode/tree/main/0326%20-%20Power%20of%20Three)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0344%20-%20Reverse%20String)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Code](https://github.com/lb930/Leetcode/tree/main/0349%20-%20Intersection%20of%20Two%20Arrays)|Easy|
-|350|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0350%20-%20Intersection%20of%20Tow%20Arrays%20II)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0350%20-%20Intersection%20of%20Tow%20Arrays%20II)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0387%20-%20First%20Unique%20Character%20in%20a%20String)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Code](https://github.com/lb930/Leetcode/tree/main/0412%20-%20Fizz%20Buzz)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Code](https://github.com/lb930/Leetcode/tree/main/0771%20-%20Jewels%20and%20Stones)|Easy|
-|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Code](https://github.com/lb930/Leetcode/tree/main/1108%20-%20Defanging%20an%20IP%20address)|Medium|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Code](https://github.com/lb930/Leetcode/tree/main/1108%20-%20Defanging%20an%20IP%20address)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Code](https://github.com/lb930/Leetcode/tree/main/1221%20-%20Split%20a%20string%20in%20balanced%20strings)|Easy|
-|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/#:~:text=Given%20a%20non%2Dnegative%20integer,by%202%20and%20obtain%207.)|[Code](https://github.com/lb930/Leetcode/tree/main/1342%20-%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|Medium|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/#:~:text=Given%20a%20non%2Dnegative%20integer,by%202%20and%20obtain%207.)|[Code](https://github.com/lb930/Leetcode/tree/main/1342%20-%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Code](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Code](https://github.com/lb930/Leetcode/tree/main/1528%20-%20Shuffle%20String)|Easy|
