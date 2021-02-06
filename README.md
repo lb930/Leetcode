@@ -13,6 +13,7 @@ Last updated:  2021-01-30
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Code](https://github.com/lb930/Leetcode/tree/main/0013%20-%20Roman%20to%20Integer)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Code](https://github.com/lb930/Leetcode/tree/main/0014%20-%20Longest%20common%20prefix)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Code](https://github.com/lb930/Leetcode/tree/main/0020%20-%20Valid%20Parentheses)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Code](https://github.com/lb930/Leetcode/tree/main/0021%20-%20Merge%20Two%20Sorted%20Lists)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Code](https://github.com/lb930/Leetcode/tree/main/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Code](https://github.com/lb930/Leetcode/tree/main/0048%20-%20Rotate%20Image)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Code](https://github.com/lb930/Leetcode/tree/main/0053%20-%20Maximum%20Subarray)|Easy|
