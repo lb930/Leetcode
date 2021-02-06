@@ -1,8 +1,8 @@
 # Leetcode Solutions Python
 
-![LeetCode](https://img.shields.io/badge/solved-33-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-36-green.svg)
 
-Last updated:  2021-01-30
+Last updated:  2021-02-06
 
 | # | Title | Code | Difficulty |
 |:---:|:---:|:---:|:---:|
