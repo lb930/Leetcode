@@ -1,8 +1,8 @@
 # Leetcode Solutions Python
 
-![LeetCode](https://img.shields.io/badge/solved-36-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-38-green.svg)
 
-Last updated:  2021-02-06
+Last updated:  2021-02-08
 
 | # | Title | Code | Difficulty |
 |:---:|:---:|:---:|:---:|
@@ -18,6 +18,7 @@ Last updated:  2021-02-06
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Code](https://github.com/lb930/Leetcode/tree/main/0048%20-%20Rotate%20Image)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Code](https://github.com/lb930/Leetcode/tree/main/0053%20-%20Maximum%20Subarray)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Code](https://github.com/lb930/Leetcode/tree/main/0066%20-%20Plus%20One)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Code](https://github.com/lb930/Leetcode/tree/main/0070%20-%20Climb%20Stairs)|Easy|
 |121|[Best Time to Buy and sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Code](https://github.com/lb930/Leetcode/tree/main/0121%20-%20Best%20time%20to%20buy%20and%20sell%20stock)|Easy|
 |122|[Best Time to Buy and sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Code](https://github.com/lb930/Leetcode/tree/main/0125%20-%20Valid%20Palindrome)|Easy|
