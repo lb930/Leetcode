@@ -40,5 +40,6 @@ Last updated:  2021-02-06
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Code](https://github.com/lb930/Leetcode/tree/main/1108%20-%20Defanging%20an%20IP%20address)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Code](https://github.com/lb930/Leetcode/tree/main/1221%20-%20Split%20a%20string%20in%20balanced%20strings)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/#:~:text=Given%20a%20non%2Dnegative%20integer,by%202%20and%20obtain%207.)|[Code](https://github.com/lb930/Leetcode/tree/main/1342%20-%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)|Easy|
-|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Code](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy|
+|1431|[Kids with the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Code](https://github.com/lb930/Leetcode/tree/main/1431%20-%20Kids%20With%20the%20Greates%20Number%20of%20Candies)|Easy|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Code](https://github.com/lb930/Leetcode/tree/main/1480%20-%20Running%20Sum%20of%201d%20Array)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Code](https://github.com/lb930/Leetcode/tree/main/1528%20-%20Shuffle%20String)|Easy|
