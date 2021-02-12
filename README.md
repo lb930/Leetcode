@@ -19,11 +19,12 @@ Last updated:  2021-02-08
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Code](https://github.com/lb930/Leetcode/tree/main/0053%20-%20Maximum%20Subarray)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Code](https://github.com/lb930/Leetcode/tree/main/0066%20-%20Plus%20One)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Code](https://github.com/lb930/Leetcode/tree/main/0070%20-%20Climb%20Stairs)|Easy|
-|121|[Best Time to Buy and sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Code](https://github.com/lb930/Leetcode/tree/main/0121%20-%20Best%20time%20to%20buy%20and%20sell%20stock)|Easy|
-|122|[Best Time to Buy and sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Code](https://github.com/lb930/Leetcode/tree/main/0121%20-%20Best%20time%20to%20buy%20and%20sell%20stock)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Code](https://github.com/lb930/Leetcode/tree/main/0125%20-%20Valid%20Palindrome)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Code](https://github.com/lb930/Leetcode/tree/main/0136%20-%20Single%20Number)|Easy|
 |167|[Two Sum II - Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Code](https://github.com/lb930/Leetcode/tree/main/0167%20-%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Code](https://github.com/lb930/Leetcode/tree/main/0169%20-%20Majority%20Element)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Code](https://github.com/lb930/Leetcode/tree/main/0189%20-%20Rotate%20Array)|Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Code](https://github.com/lb930/Leetcode/tree/main/0204%20-%20Count%20Primes)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Code](https://github.com/lb930/Leetcode/tree/main/0206%20-%20Reverse%20Linked%20List)|Easy|
