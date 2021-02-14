@@ -1,9 +1,5 @@
 # Leetcode Solutions Python
 
-![LeetCode](https://img.shields.io/badge/solved-38-green.svg)
-
-Last updated:  2021-02-08
-
 | # | Title | Code | Difficulty |
 |:---:|:---:|:---:|:---:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Code](https://github.com/lb930/Leetcode/tree/main/0001%20-%20Two%20Sum)|Easy|
