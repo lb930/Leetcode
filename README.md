@@ -38,6 +38,7 @@ Last updated:  2021-02-08
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Code](https://github.com/lb930/Leetcode/tree/main/0350%20-%20Intersection%20of%20Tow%20Arrays%20II)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[Code](https://github.com/lb930/Leetcode/tree/main/0387%20-%20First%20Unique%20Character%20in%20a%20String)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Code](https://github.com/lb930/Leetcode/tree/main/0412%20-%20Fizz%20Buzz)|Easy|
+|509|[Fibonacci](https://leetcode.com/problems/fibonacci-number/)|[Code](https://github.com/lb930/Leetcode/tree/main/0509%20-%20Fibonacci%20Number)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Code](https://github.com/lb930/Leetcode/tree/main/0771%20-%20Jewels%20and%20Stones)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Code](https://github.com/lb930/Leetcode/tree/main/1108%20-%20Defanging%20an%20IP%20address)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Code](https://github.com/lb930/Leetcode/tree/main/1221%20-%20Split%20a%20string%20in%20balanced%20strings)|Easy|
